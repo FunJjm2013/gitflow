@@ -21,6 +21,7 @@ public class App
 
     public static void newFunc(String s){
         System.out.println(s);
+        System.out.println("fix bug-f");
     }
 
     public static void newFunc2(String s){
