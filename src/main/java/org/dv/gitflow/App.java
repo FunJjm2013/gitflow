@@ -27,4 +27,8 @@ public class App
     public static void newFunc2(String s){
         System.out.println(s);
     }
+
+    public static void newFunc3(String s){
+        System.out.println(s);
+    }
 }
