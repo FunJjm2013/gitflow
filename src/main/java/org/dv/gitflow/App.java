@@ -11,5 +11,9 @@ public class App
         System.out.println( "Hello World!" );
 
         System.out.println("Good Job");
+
+
+        System.out.println("Oh, Error");
+        System.out.println("I should fix it");
     }
 }
