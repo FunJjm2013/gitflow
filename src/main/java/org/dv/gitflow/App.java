@@ -1,8 +1,10 @@
 package org.dv.gitflow;
 
 /**
- * Hello world!
+ * App class
  *
+ * @author jiangjunming
+ * @date 2016/10/31
  */
 public class App 
 {
@@ -15,5 +17,9 @@ public class App
 
         System.out.println("Oh, Error");
         System.out.println("I should fix it");
+    }
+
+    public static void newFunc(String s){
+        System.out.println(s);
     }
 }
